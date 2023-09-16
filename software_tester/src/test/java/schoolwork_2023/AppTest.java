@@ -1,4 +1,4 @@
-package softwaretester;
+package schoolwork_2023;
 
 import static org.junit.Assert.assertTrue;
 

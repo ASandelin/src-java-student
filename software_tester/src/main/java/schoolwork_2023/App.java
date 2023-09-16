@@ -1,4 +1,4 @@
-package softwaretester;
+package schoolwork_2023;
 
 /**
  * Hello world!
